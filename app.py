@@ -85,7 +85,7 @@ def HEADER():
     with container:
         st.image("img/Study Sync.png")
 
-    st.subheader("Your one-stop solution for studying smarter, not harder.")
+    st.subheader("Unlock Your Genius: Study Smarter, Not Harder!")
 
 def FEATURES():
     '''
