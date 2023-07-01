@@ -11,5 +11,3 @@ def about_section():
             </p>
             
 )
-# Example usage
-about_section()
