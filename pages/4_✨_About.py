@@ -10,6 +10,6 @@ def about_section():
                 LAILA DEVELOP THIS APP TO HELP STUDENT .
             </p>
             
-
+)
 # Example usage
 about_section()
