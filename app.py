@@ -110,7 +110,7 @@ def FEATURES():
     st.markdown(style, unsafe_allow_html=True)
 
     features = [
-        {"title": "User-friendly Interface", "emoji": "🌟", "desc": "Study Sync offers an intuitive and engaging user interface designed using Streamlit. It ensures a smooth and enjoyable user experience throughout the application."},
+        {"title": "User-friendly Interface", "emoji": "🌟", "desc": "Study Sync with laila offers an intuitive and engaging user interface designed using Streamlit. It ensures a smooth and enjoyable user experience throughout the application."},
         {"title": "Study Material Input", "emoji": "📚", "desc": "Users can easily input their study materials through various options, including text input or file upload. This flexibility allows users to seamlessly integrate their existing study resources into Study Sync."},
         {"title": "Automatic Summarization", "emoji": "✂️", "desc": "Study Sync employs the power of ChatGPT to automatically generate concise summaries of study materials. This feature saves time and effort by condensing lengthy content into key points for quick comprehension."},
         {"title": "Flashcards Generation", "emoji": "🃏", "desc": "With Study Sync, users can create interactive flashcards from important concepts within their study materials. Flashcards serve as effective tools for reinforcing knowledge and facilitating active recall."},
