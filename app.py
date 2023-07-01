@@ -92,7 +92,7 @@ def FEATURES():
     This function displays the features section of the web app.
     '''
 
-    st.write("Study Sync aspires to revolutionize studying by enabling students to sync up and study smarter with AI-backed assistance and mind maps. With its innovative design, robust features, and flexible business model, we will make studying enjoyable again! 🚀🎓")
+    st.write("Study with Laila Sync aspires to revolutionize studying by enabling students to sync up and study smarter with AI-backed assistance and mind maps. With its innovative design, robust features, and flexible business model, we will make studying enjoyable again! 🚀🎓")
 
     # Style for the individual feature boxes
     style = """
